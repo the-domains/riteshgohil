@@ -1,7 +1,7 @@
 name: RiteshGohil
 favicon: null
-layout_spectrum: 0.6228273247834295
-typography_spectrum: 0.5400854386389256
+layout_spectrum: 1
+typography_spectrum: 0.14635
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.9009929227177054
+    - '#131231'
+    - '#eedba3'
+    - '#c1aa8b'
+    - '#9f897c'
+    - '#343041'
+  brandStrength: 1
   lightness: 0.9210687852464616
-  saturation: 0.0729805282317102
-  rhythmicContrast: 0.8579699213150889
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
